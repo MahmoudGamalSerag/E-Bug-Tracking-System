@@ -1,0 +1,37 @@
+E:\COLLEGE\BugSolve\BugSolve\obj\Debug\BugSolve.csprojAssemblyReference.cache
+E:\COLLEGE\BugSolve\BugSolve\obj\Debug\BugSolve.csproj.CoreCompileInputs.cache
+E:\COLLEGE\BugSolve\BugSolve\bin\Debug\BugSolve.exe.config
+E:\COLLEGE\BugSolve\BugSolve\bin\Debug\BugSolve.exe
+E:\COLLEGE\BugSolve\BugSolve\bin\Debug\BugSolve.pdb
+E:\COLLEGE\BugSolve\BugSolve\obj\Debug\BugSolve.exe
+E:\COLLEGE\BugSolve\BugSolve\obj\Debug\BugSolve.pdb
+E:\COLLEGE\photos\BugSolve\BugSolve\bin\Debug\BugSolve.exe.config
+E:\COLLEGE\photos\BugSolve\BugSolve\bin\Debug\BugSolve.exe
+E:\COLLEGE\photos\BugSolve\BugSolve\bin\Debug\BugSolve.pdb
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.csprojAssemblyReference.cache
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.CustmerForm.resources
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.csproj.GenerateResource.cache
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.csproj.CoreCompileInputs.cache
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.exe
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.pdb
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.LoginForm.resources
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.RegisterForm.resources
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.AdminForm.resources
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.StaffForm.resources
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.AllBugsForm.resources
+E:\COLLEGE\photos\BugSolve\BugSolve\obj\Debug\BugSolve.AssignedBugsFormForStaff.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\bin\Debug\BugSolve.exe.config
+E:\COLLEGE\com\BugSolve gui final\BugSolve\bin\Debug\BugSolve.exe
+E:\COLLEGE\com\BugSolve gui final\BugSolve\bin\Debug\BugSolve.pdb
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.csprojAssemblyReference.cache
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.AdminForm.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.AllBugsForm.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.AssignedBugsFormForStaff.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.CustmerForm.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.RegisterForm.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.LoginForm.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.StaffForm.resources
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.csproj.GenerateResource.cache
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.csproj.CoreCompileInputs.cache
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.exe
+E:\COLLEGE\com\BugSolve gui final\BugSolve\obj\Debug\BugSolve.pdb
